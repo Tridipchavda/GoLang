@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{  
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: #111F29;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.inputField{
+    text-align: right;
+    font-size: 30px;
+    padding: 5px;
+    margin: 30px 30px;
+    margin-bottom: 10px;
+    height: 30px;
+    background-color: #111F29;
+    color: white;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #5381a1;
+}
+.calculator{
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    justify-content: center;
+    box-shadow: 0 0px 15px #5381a1;
+    -moz-box-shadow: 0 0px 15px #5381a1;
+    -webkit-box-shadow: 0 0px 15px #5381a1;
+}
+.buttonContainer{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 20px;
+    padding: 10px;
+}
+.buttonContainer button{
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 10px;
+    border-radius: 10px;
+    border:none;
+    background-color: #1F3141;
+    color: #1F79B8;
+    cursor: pointer;
+}
+.buttonContainer button:hover{
+    scale: 0.89;
+    transition: 0.3s;
+    box-shadow: 0px 1px 10px #1F79B8;
+}
+.buttonContainer .special{
+    background-color: #1F79B8;
+    color: #1F3141;
+}
+.buttonContainer .specialFun{
+    width: 140px;
+    background-color: #45525C;
+    color: #94979a;
+}
+@media (max-width:600px) {
+    .calculator{
+        width: 270px;
+        height: 400px;
+    }
+    .buttonContainer .specialFun{
+        width: 95px;
+    }
+    .buttonContainer{
+        margin: 5px 10px;
+        padding: 10px;
+    }
+    .inputField{
+        font-size: 20px;
+        padding: 2px;
+        margin: 30px 30px;
+        margin-bottom: 10px;
+        height: 30px;
+    }
+    .buttonContainer button{
+        width: 40px;
+        height: 40px;
+        margin: 7px;
+        font-size: 20px;
+    }
+    .buttonContainer button:active{
+        /* outline: none;
+        scale: 0.89;
+        transition: 0.3s; */
+        /* box-shadow: 0px 1px 10px #1F79B8; */
+    }
+}
