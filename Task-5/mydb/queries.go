@@ -2,8 +2,9 @@ package myQueries
 
 import (
 	"FrontEndToDB/myconn"
+	"log"
+
 	"database/sql"
-	"fmt"
 )
 
 // Struct for store data from database
@@ -15,16 +16,16 @@ type Customer struct {
 	Phone string `sql:"phone"`
 }
 
-func InsertQuery(db *sql.DB, f_name string, l_name string, dob string, email string, phone string) error {
+func InsertQuery(db *sql.DB, customer Customer) error {
 
 	// Insert Query to database customer
 	insertQuery := `INSERT INTO customer(f_name,l_name,dob,email,phone) values($1, $2, $3, $4, $5)`
-	_, e := db.Exec(insertQuery, f_name, l_name, dob, email, phone)
+	_, e := db.Exec(insertQuery, customer.Fname, customer.Lname, customer.Dob, customer.Email, customer.Phone)
 
 	if e != nil {
 		return e
 	}
-	fmt.Println("Insert Data Successfully")
+	log.Println("Insert Data Successfully")
 	return nil
 }
 
@@ -42,9 +43,9 @@ func ReadQuery(db *sql.DB) []Customer {
 		customers = append(customers, customer)
 	}
 
-	result.Close()
+	defer result.Close()
 
 	// return Customer array to HTML Response side
-	fmt.Println("Read Records Successfully")
+	log.Println("Read Records Successfully")
 	return customers
 }

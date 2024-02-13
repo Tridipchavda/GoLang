@@ -1,18 +1,38 @@
 package main
 
 import (
+	"html/template"
+	"log"
+	"net/http"
+	"os"
+
+	"github.com/joho/godotenv"
+
 	"FrontEndToDB/myconn"
 	myQueries "FrontEndToDB/mydb"
-	"fmt"
-	"html/template"
-
-	"net/http"
 )
+
+type DB_info struct {
+	port     string
+	user     string
+	password string
+	name     string
+}
 
 func main() {
 
+	// Entering Data into DB_info structure by Loadding ENV file
+	godotenv.Load()
+
+	db_info := DB_info{
+		os.Getenv("DATABASE_PORT"),
+		os.Getenv("DATABASE_USER"),
+		os.Getenv("DATABASE_PASSWORD"),
+		os.Getenv("DATABASE_NAME"),
+	}
+
 	// Making connection to postgres server
-	db := myconn.ConnectToDB(5555, "postgres", "1234", "postgres")
+	db := myconn.ConnectToDB(db_info.port, db_info.user, db_info.password, db_info.name)
 	defer db.Close()
 
 	// Open static Path for ./HTML Form and Table files
@@ -31,8 +51,15 @@ func main() {
 			w.Write([]byte("<h1>Please Enter valid Data </h1>"))
 			return
 		}
-		// Insert Data into postgres database
-		e := myQueries.InsertQuery(db, r.Form.Get("fname"), r.Form.Get("lname"), r.Form.Get("dob"), r.Form.Get("email"), r.Form.Get("number"))
+		// Insert Data into postgres database by Entering first into struct name Customer
+		customer := myQueries.Customer{Fname: r.Form.Get("fname"),
+			Lname: r.Form.Get("lname"),
+			Dob:   r.Form.Get("dob"),
+			Email: r.Form.Get("email"),
+			Phone: r.Form.Get("number"),
+		}
+
+		e := myQueries.InsertQuery(db, customer)
 
 		// if Error occur , Primary Key Duplication error
 		if e != nil {
@@ -54,7 +81,7 @@ func main() {
 	})
 
 	// Generating Port at 3453 port
-	fmt.Println("Listening on Port 3453")
+	log.Println("Listening on Port 3453")
 	err := http.ListenAndServe(":3453", nil)
 	myconn.CheckErr(err)
 }

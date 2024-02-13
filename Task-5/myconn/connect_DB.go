@@ -1,23 +1,26 @@
 package myconn
 
 import (
-	"database/sql"
 	"fmt"
+	"log"
+	"strconv"
 
 	_ "github.com/lib/pq"
+
+	"database/sql"
 )
 
 // Function to check error and panic
 func CheckErr(err error) {
 	if err != nil {
-		panic(err)
+		log.Fatal(err)
 	}
 }
 
 // Function to connect DB by port, username and password, dbname
-func ConnectToDB(_port int, _user string, _password string, _dbname string) (db *sql.DB) {
+func ConnectToDB(_port string, _user string, _password string, _dbname string) (db *sql.DB) {
 	host := "localhost"
-	port := _port
+	port, _ := strconv.Atoi(_port)
 	user := _user
 	password := _password
 	dbname := _dbname
@@ -30,7 +33,7 @@ func ConnectToDB(_port int, _user string, _password string, _dbname string) (db 
 	CheckErr(err)
 
 	CheckErr(db.Ping())
-	fmt.Println("Successfully comm database")
+	log.Println("Successfully comm database")
 
 	return db
 }
