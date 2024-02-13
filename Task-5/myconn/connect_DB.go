@@ -18,8 +18,8 @@ func CheckErr(err error) {
 }
 
 // Function to connect DB by port, username and password, dbname
-func ConnectToDB(_port string, _user string, _password string, _dbname string) (db *sql.DB) {
-	host := "localhost"
+func ConnectToDB(_host string, _port string, _user string, _password string, _dbname string) (db *sql.DB) {
+	host := _host
 	port, _ := strconv.Atoi(_port)
 	user := _user
 	password := _password

@@ -13,6 +13,7 @@ import (
 )
 
 type DB_info struct {
+	host     string
 	port     string
 	user     string
 	password string
@@ -25,6 +26,7 @@ func main() {
 	godotenv.Load()
 
 	db_info := DB_info{
+		os.Getenv("DATABASE_HOST"),
 		os.Getenv("DATABASE_PORT"),
 		os.Getenv("DATABASE_USER"),
 		os.Getenv("DATABASE_PASSWORD"),
@@ -32,7 +34,7 @@ func main() {
 	}
 
 	// Making connection to postgres server
-	db := myconn.ConnectToDB(db_info.port, db_info.user, db_info.password, db_info.name)
+	db := myconn.ConnectToDB(db_info.host, db_info.port, db_info.user, db_info.password, db_info.name)
 	defer db.Close()
 
 	// Open static Path for ./HTML Form and Table files
@@ -80,8 +82,8 @@ func main() {
 		tmpl.Execute(w, myQueries.ReadQuery(db))
 	})
 
-	// Generating Port at 3453 port
-	log.Println("Listening on Port 3453")
-	err := http.ListenAndServe(":3453", nil)
+	// Generating Port st SERVER PORT environment variable
+	log.Println("Listening on Port " + os.Getenv("SERVER_PORT"))
+	err := http.ListenAndServe(":"+os.Getenv("SERVER_PORT"), nil)
 	myconn.CheckErr(err)
 }
