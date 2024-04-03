@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "contactDets": {
+      "email": "aniket.amin@bacancy.com",
+      "phone": "09876 54321"
+    }
+  },
+  {
+    "id": 4,
+    "contactDets": {
+      "email": "aniket.amin@bacancy.com",
+      "phone": "09876 54321"
+    }
+  },
+  {
+    "id": 1,
+    "contactDets": {
+      "email": "gururaj.gupta@bacancy.com",
+      "phone": "12345 7890"
+    }
+  },
+  {
+    "id": 5,
+    "contactDets": {
+      "email": "jaimin.parmar@bacancy.com",
+      "phone": "96628 73324"
+    }
+  }
+]
