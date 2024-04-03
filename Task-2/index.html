@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <!-- Importing Scripts and CSS-->
+    <link rel="stylesheet" href="style.css" />
+    <script defer type="text/javascript" src="script.js"></script>
+  </head>
+  <body>
+    <div class="main">
+        <!-- Calculator container at the center of the website -->
+      <div class="calculator">
+        <!-- Input field to view the expression for editing and evaluate -->
+        <input disabled type="text" class="inputField" id="inputField" placeholder="0"/>
+        <!-- Button Container for all digits and operators with function of Javascript to add and evaluate Expression-->
+        <div class="buttonContainer">
+            <button onclick="addValueToExpression(7)">7</button>
+            <button onclick="addValueToExpression(8)">8</button>
+            <button onclick="addValueToExpression(9)">9</button>
+            <button onclick="addValueToExpression('/')">/</button>
+
+            <button onclick="addValueToExpression(4)">4</button>
+            <button onclick="addValueToExpression(5)">5</button>
+            <button onclick="addValueToExpression(6)">6</button>
+            <button onclick="addValueToExpression('*')">*</button>
+
+            <button onclick="addValueToExpression(1)">1</button>
+            <button onclick="addValueToExpression(2)">2</button>
+            <button onclick="addValueToExpression(3)">3</button>
+            <button onclick="addValueToExpression('-')">-</button>
+
+            <button onclick="addValueToExpression(0)">0</button>
+            <button onclick="addValueToExpression('.')">.</button>
+            <button class="special" onclick="addValueToExpression('=')">=</button>
+            <button onclick="addValueToExpression('+')">+</button>
+
+            <!-- Different CSS for These buttons with Clear and Delete functionality -->
+            <button class="specialFun" onclick="addValueToExpression('clear')">Clear</button>
+            <button class="specialFun" onclick="addValueToExpression('del')">Del</button>
+        </div>
+        
+      </div>
+    </div>
+  </body>
+</html>
