@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+option go_package = "./grpcService/";
+
+service RouteService {
+    rpc GetRoute (RouteRequest) returns (Route) {}
+    rpc GetStationOrder (RouteRequest) returns (RouteStationResponse) {}
+}
+
+service RouteStationService {
+    rpc GetAllStationOfRoute (RouteRequest) returns (Station) {}
+}
+
+message RouteRequest {
+    uint32 id = 1;
+}
+
+message RouteStationResponse {
+    repeated RouteStation route_stations = 1;
+}
+
+message Station {
+    uint32 id = 1;
+    string name = 2;
+    double lat = 3;
+    double long = 4;
+}
+
+message RouteStation {
+    uint32 route_id = 1;
+    uint32 station_id = 2;
+    uint32 station_order = 3;    
+}
+
+message Route {
+    uint32 id = 1;
+    string name = 2;
+    uint32 status = 3;
+    uint32 source = 4;
+    uint32 destination = 5;
+}
