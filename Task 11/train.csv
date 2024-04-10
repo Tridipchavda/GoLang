@@ -1,0 +1,938 @@
+,Train no.,Train name,Starts,Ends
+0,12723,Andhra Pradesh Express,Hyderabad Decan,New Delhi
+1,22416,Andhra Pradesh Express,New Delhi,Vishakapatnam
+2,12724,Andhra Pradesh Express,New Delhi,Hyderabad Decan
+3,12707,Andhra Pradesh Sampark Kranti,Tirupati,H Nizamuddin
+4,15909,Abadh Assam Express,New Tinsukia Junction,Darbhanga Junction
+5,18242,Abkp Durg Passenger E,Ambikapur,Durg
+6,11266,Abkp Jbp Express,Ambikapur,Jabalpur
+7,58702,Abkp Sdl Passenger,Ambikapur,Shahdol
+8,54703,Abs Ju Passengr,Abohar,Jodhpur Junction
+9,7509,Adb Qln Special,Adilabad,Kollam Junction
+10,9416,Adi Madgaon Special,Ahmedabad Junction,Madgaon
+11,19417,Adi Ald Express,Ahmedabad Junction,Allahabad Junction
+12,9427,Adi Ald Special,Ahmedabad Junction,Allahabad Junction
+13,9018,Adi Bct Ac Special,Ahmedabad Junction,Mumbai Central
+14,14804,Adi Bgkt Express,Ahmedabad Junction,Bhagat Ki Kothi
+15,4804,Adi Bgkt Special,Ahmedabad Junction,Bhagat Ki Kothi
+16,9421,Adi Bme Ac Special,Ahmedabad Junction,Barmer
+17,19130,Adi Brc Intercity,Ahmedabad Junction,Vadodara Junction
+18,2713,Adi Bza Superfast Special,Ahmedabad Junction,Vijayawada Junction
+19,19420,Adi Chennai Express,Ahmedabad Junction,Chennai Central
+20,9417,Adi Dee Premium,Ahmedabad Junction,Delhi S Rohilla
+21,12931,Adi Double Deck,Mumbai Central,Ahmedabad Junction
+22,12267,Adi Duronto Express,Mumbai Central,Ahmedabad Junction
+23,12298,Adi Duronto Express,Pune Junction,Ahmedabad Junction
+24,9425,Adi Jaipur Special,Ahmedabad Junction,Jaipur
+25,19223,Adi Jat Express,Ahmedabad Junction,Jammu Tawi
+26,19606,Adi Koaa Express,Ahmedabad Junction,Kolkata
+27,19401,Adi Lucknow Express,Ahmedabad Junction,Lucknow Nr
+28,9413,Adi Lucknow Special,Ahmedabad Junction,Lucknow Nr
+29,9420,Adi Majn Superfast Special,Ahmedabad Junction,Mangalore Junction
+30,9411,Adi Patna Special,Ahmedabad Junction,Patna Junction
+31,19421,Adi Pnbe Express,Ahmedabad Junction,Patna Junction
+32,18406,Adi Puri Express,Ahmedabad Junction,Puri
+33,12844,Adi Puri Express,Ahmedabad Junction,Puri
+34,7017,Adi Sc Premium,Ahmedabad Junction,Secunderabad Junction
+35,12958,Adi Sj Rajdhani,New Delhi,Ahmedabad Junction
+36,19415,Adi Svdk Express,Ahmedabad Junction,Shmata V D Ktra
+37,19944,Adi Udz Express,Ahmedabad Mg,Udaipur City
+38,19407,Adi Varanasi Express,Ahmedabad Junction,Varanasi Junction
+39,16501,Adi Ypr Express,Ahmedabad Junction,Yesvantpur Junction
+40,12547,Af Adi Superfast Express,Agra Fort,Ahmedabad Junction
+41,12195,Af Aii Intercity,Agra Fort,Ajmer Junction
+42,9612,Af Aii Special,Agra Fort,Ajmer Junction
+43,12036,Af Jp Shatabdi,Agra Fort,Jaipur
+44,15055,Af Rmr Express,Agra Fort,Ramnagar
+45,12954,Ag Kranti Rajdhani,H Nizamuddin,Mumbai Central
+46,12320,Agc Koaa Express,Agra Cantt,Kolkata
+47,13168,Agc Koaa Express,Agra Cantt,Kolkata
+48,1436,Agc Pune Special,Agra Cantt,Pune Junction
+49,12342,Agnibina Express,Asansol Junction,Howrah Junction
+50,12341,Agnibina Express,Howrah Junction,Asansol Junction
+51,12548,Agra Super Fast,Ahmedabad Junction,Agra Fort
+52,52575,Agtl Dmr Passenger,Agartala,Dharmanagar
+53,22645,Ahilyanagari Express,Indore Junction Bg,Trivandrum Cntl
+54,22646,Ahilyanagari Express,Trivandrum Cntl,Indore Junction Bg
+55,11095,Ahimsa Express,Ahmedabad Junction,Pune Junction
+56,11096,Ahimsa Express,Pune Junction,Ahmedabad Junction
+57,16502,Ahmadabad Express,Yesvantpur Junction,Ahmedabad Junction
+58,59439,Ahmadabad Passenger,Mumbai Central,Ahmedabad Junction
+59,59440,Ahmadabad Passenger,Ahmedabad Junction,Borivali
+60,19405,Ahmedabad Ac Express,Yesvantpur Junction,Ahmedabad Junction
+61,11050,Ahmedabad Express,C Shahumharaj T,Ahmedabad Junction
+62,59441,Ahmedabad Passenger,Mumbai Central,Nandurbar
+63,59442,Ahmedabad Passenger,Ahmedabad Junction,Mumbai Central
+64,9649,Aii Adi Special,Ajmer Junction,Ahmedabad Junction
+65,12196,Aii Af Intercity,Ajmer Junction,Agra Fort
+66,5712,Aii Apdj Special,Ajmer Junction,Alipur Duar Junction
+67,22996,Aii Bdts Superfast Express,Ajmer Junction,Bandra Terminus
+68,9611,Aii Bdts Special,Ajmer Junction,Bandra Terminus
+69,9619,Aii Bdts Urs Special,Ajmer Junction,Bandra Terminus
+70,9602,Aii Beas Special,Ajmer Junction,Udaipur City
+71,9601,Aii Beas Special,Ajmer Junction,Beas
+72,13424,Aii Bgp Express,Ajmer Junction,Bhagalpur
+73,5286,Aii Bju Special,Ajmer Junction,Barauni Junction
+74,12983,Aii Cdg G Rath,Ajmer Junction,Chandigarh
+75,5104,Aii Cpr Special,Ajmer Junction,Chhapra
+76,5238,Aii Dbg Special,Ajmer Junction,Darbhanga Junction
+77,12990,Aii Ddr Express,Ajmer Junction,Dadar
+78,9627,Aii Dee Superfast Special,Ajmer Junction,Delhi S Rohilla
+79,4042,Aii Dli Superfast Special,Ajmer Junction,Delhi
+80,18208,Aii Durg Express,Ajmer Junction,Durg
+81,19609,Aii Hw Express,Ajmer Junction,Haridwar Junction
+82,9640,Aii Hw Special,Ajmer Junction,Haridwar Junction
+83,3002,Aii Hwh Special,Ajmer Junction,Howrah Junction
+84,17019,Aii Hyb Express,Ajmer Junction,Hyderabad Decan
+85,12719,Aii Hyb Superfast Express,Ajmer Junction,Hyderabad Decan
+86,7126,Aii Hyb Special,Ajmer Junction,Hyderabad Decan
+87,7019,Aii Hyb Special,Ajmer Junction,Hyderabad Decan
+88,9312,Aii Indb Special,Ajmer Junction,Indore Junction Bg
+89,12066,Aii Jan Shatabd,H Nizamuddin,Ajmer Junction
+90,12413,Aii Jat Express,Ajmer Junction,Jammu Tawi
+91,9621,Aii Jp Intercity,Ajmer Junction,Jaipur
+92,9625,Aii Jp Superfast Special,Ajmer Junction,Jaipur
+93,54802,Aii Ju Fast Passenger,Ajmer Junction,Jodhpur Junction
+94,7130,Aii Kcg Special,Ajmer Junction,Kacheguda
+95,3138,Aii Koaa Special,Ajmer Junction,Howrah Junction
+96,19608,Aii Koaa Express,Ajmer Junction,Kolkata
+97,16209,Aii Mys Express,Ajmer Junction,Mysore Junction
+98,22211,Aii Nzm Duronto,Ajmer Junction,H Nizamuddin
+99,18422,Aii Puri Express,Ajmer Junction,Puri
+100,8422,Aii Puri Express,Ajmer Junction,Puri
+101,19654,Aii Rtm Express,Ajmer Junction,Ratlam Junction
+102,12988,Aii Sdah Express,Ajmer Junction,Sealdah
+103,3180,Aii Sdah Superfast Special,Ajmer Junction,Sealdah
+104,19603,Aii Sln Express,Ajmer Junction,Sultanpur
+105,19607,Aii Wkly Express,Kolkata,Ajmer Junction
+106,17064,Ajanta Express,Secunderabad Junction,Manmad Junction
+107,17063,Ajanta Express,Manmad Junction,Secunderabad Junction
+108,19613,Ajmer Asr Express,Ajmer Junction,Amritsar Junction
+109,19611,Ajmer Asr Express,Ajmer Junction,Amritsar Junction
+110,12989,Ajmer Express,Dadar,Ajmer Junction
+111,16210,Ajmer Express,Mysore Junction,Ajmer Junction
+112,19411,Ajmer Intercity,Ahmedabad Junction,Ajmer Junction
+113,12015,Ajmer Shatabdi,New Delhi,Ajmer Junction
+114,12016,Ajmer Shatabdi,Ajmer Junction,New Delhi
+115,9650,Ajmer Special,Ahmedabad Junction,Ajmer Junction
+116,12120,Ajni Ami Express,Nagpur,Amravati
+117,11202,Ajni Ltt Express,Ajni,Lokmanyatilak T
+118,17640,Ak Kcg Express,Akola Junction,Kacheguda
+119,52994,Ak Mhow F Passenger,Akola Junction,Mhow
+120,7507,Ak Qln Special,Akola Junction,Kollam Junction
+121,12318,Akal Takhat Express,Amritsar Junction,Sealdah
+122,12317,Akal Takht Express,Sealdah,Amritsar Junction
+123,14311,Ala Hazrat Express,Bareilly,Bhuj
+124,14312,Ala Hazrat Express,Bhuj,Bareilly
+125,7092,Ald Hyb Special,Allahabad Junction,Hyderabad Decan
+126,19418,Ald Adi Express,Allahabad Junction,Ahmedabad Junction
+127,9430,Ald Adi Special,Allahabad Junction,Ahmedabad Junction
+128,4421,Ald Anvt Superfast Special,Allahabad Junction,Anand Vihar Trm
+129,7240,Ald Cct Special,Allahabad Junction,Kakinada Town
+130,4001,Ald Dli Superfast Special,Allahabad Junction,Delhi
+131,12276,Ald Duronto Express,New Delhi,Allahabad Junction
+132,12293,Ald Duronto Express,Lokmanyatilak T,Allahabad Junction
+133,14115,Ald Hw Express,Allahabad Junction,Haridwar Junction
+134,4120,Ald Hwh Special,Allahabad Junction,Howrah Junction
+135,22442,Ald Intercity,Kanpur Central,Allahabad Junction
+136,4121,Ald Jat Ac Special,Allahabad Junction,Jammu Tawi
+137,4131,Ald Jat Premium,Allahabad Junction,Jammu Tawi
+138,12403,Ald Jp Express,Allahabad Junction,Jaipur
+139,12294,Ald Ltt Duronto,Allahabad Junction,Lokmanyatilak T
+140,4127,Ald Ltt Premium,Allahabad Junction,Lokmanyatilak T
+141,12564,Ald Ltt Superfast Express,Allahabad Junction,Lokmanyatilak T
+142,1006,Ald Ltt Special,Allahabad Junction,Lokmanyatilak T
+143,4115,Ald Ltt Special,Allahabad Junction,Lokmanyatilak T
+144,4111,Ald Ndls Superfast Special,Allahabad Junction,New Delhi
+145,4423,Ald Ndls Special,Allahabad Junction,New Delhi
+146,7514,Ald Ned Special,Allahabad Junction,Nanded
+147,7512,Ald Ned Special,Allahabad Junction,Nanded
+148,4113,Ald Uhp Special,Allahabad Junction,Udhampur
+149,8576,Ald Vskp Special,Allahabad Junction,Vishakapatnam
+150,9429,Allahabad Special,Ahmedabad Junction,Allahabad Junction
+151,22639,Alleppey Express,Chennai Central,Alleppey
+152,16308,Alleppey Express,Kannur,Alleppey
+153,12587,Amar Nath Express,Gorakhpur Junction,Jammu Tawi
+154,18047,Amaravathi Express,Howrah Junction,Vasco Da Gama
+155,17225,Amaravathi Express,Vijayawada Junction,Hubli Junction
+156,17226,Amaravati Express,Hubli Junction,Kacheguda
+157,12853,Amarkantak Express,Durg,Bhopal Junction
+158,12854,Amarkantak Express,Bhopal Junction,Durg
+159,15098,Amarnath Express,Jammu Tawi,Bhagalpur
+160,15097,Amarnath Express,Bhagalpur,Jammu Tawi
+161,15653,Amarnath Express,Guwahati,Jammu Tawi
+162,11265,Ambikapur Express,Jabalpur,Ambikapur
+163,13138,Amh Koaa Express,Azamgarh,Kolkata
+164,11054,Amh Ltt Express,Azamgarh,Lokmanyatilak T
+165,12119,Ami Ajni Express,Amravati,Ajni
+166,12159,Ami Jbp Superfast Express,Amravati,Jabalpur
+167,11406,Ami Pune Express,Amravati,Pune Junction
+168,12766,Ami Tpty Superfast Express,Amravati,Tirupati
+169,9050,Ami Udn Passenger Special,Amravati,Udhna Junction
+170,12112,Amravati Cstm E,Amravati,Mumbai Cst
+171,16343,Amritha Express,Trivandrum Cntl,Palghat Town
+172,16344,Amritha Express,Palghat Town,Trivandrum Cntl
+173,12483,Amritsar Express,Kochuveli,Amritsar Junction
+174,13049,Amritsar Express,Howrah Junction,Amritsar Junction
+175,11057,Amritsar Express,Lokmanyatilak T,Dhule
+176,13005,Amritsar Mail,Howrah Junction,Amritsar Junction
+177,12014,Amritsar Shatabdi,Amritsar Junction,New Delhi
+178,12032,Amritsar Shatabdi,Amritsar Junction,New Delhi
+179,12013,Amritsar Shatabdi,New Delhi,Amritsar Junction
+180,12031,Amritsar Shatabdi,New Delhi,Amritsar Junction
+181,22128,Anandwan Express,Kazipet Junction,Lokmanyatilak T
+182,22127,Anandwan Express,Lokmanyatilak T,Kazipet Junction
+183,16723,Anantapuri Express,Chennai Egmore,Trivandrum Cntl
+184,16724,Anantapuri Express,Trivandrum Cntl,Chennai Egmore
+185,12316,Ananya Express,Udaipur City,Sealdah
+186,16031,Andaman Express,Chennai Central,Jammu Tawi
+187,16032,Andaman Express,Jammu Tawi,Chennai Central
+188,12254,Anga Express,Bhagalpur,Yesvantpur Junction
+189,12253,Anga Express,Yesvantpur Junction,Bhagalpur
+190,12315,Annanya Express,Sealdah,Udaipur City
+191,4422,Anvt Ald Superfast Special,Anand Vihar Trm,Allahabad Junction
+192,4118,Anvt Ald Special,Anand Vihar Trm,Allahabad Junction
+193,4028,Anvt Apdj Special,Anand Vihar Trm,Alipur Duar Junction
+194,3518,Anvt Asn Special,Anand Vihar Trm,Asansol Junction
+195,22406,Anvt Bgp G Rath,Anand Vihar Trm,Bhagalpur
+196,14152,Anvt Cnb Express,Anand Vihar Trm,Kanpur Central
+197,12211,Anvt Garib Rath,Muzaffarpur Junction,Anand Vihar Trm
+198,22409,Anvt Garib Rath,Gaya Junction,Anand Vihar Trm
+199,2398,Anvt Gaya Special,Anand Vihar Trm,Gaya Junction
+200,5028,Anvt Gkp Special,Anand Vihar Trm,Gorakhpur Junction
+201,15058,Anvt Gkp Express,Anand Vihar Trm,Gorakhpur Junction
+202,5052,Anvt Gkp Special,Anand Vihar Trm,Gorakhpur Junction
+203,5036,Anvt Gkp Special,Anand Vihar Trm,Gorakhpur Junction
+204,5040,Anvt Gkp Special,Anand Vihar Trm,Gorakhpur Junction
+205,5050,Anvt Gkp Special,Delhi,Gorakhpur Junction
+206,5058,Anvt Gkp Special,Anand Vihar Trm,Gorakhpur Junction
+207,12444,Anvt Hlz S F Express,Anand Vihar Trm,Haldia
+208,12040,Anvt Kgm Shatabdi,Anand Vihar Trm,Kathgodam
+209,13132,Anvt Koaa Express,Anand Vihar Trm,Kolkata
+210,3126,Anvt Koaa Superfast Special,Anand Vihar Trm,Kolkata
+211,15622,Anvt Kyq Express,Anand Vihar Trm,Kamakhya
+212,15026,Anvt Mau Express,Anand Vihar Trm,Mau Junction
+213,13430,Anvt Mldt Express,Anand Vihar Trm,Malda Town
+214,3210,Anvt Pnbe Special,Anand Vihar Trm,Patna Junction
+215,2394,Anvt Pnbe Special,Anand Vihar Trm,Patna Junction
+216,2365,Anvt Premium,Patna Junction,Anand Vihar Trm
+217,2527,Anvt Premium Special,Gorakhpur Junction,Anand Vihar Trm
+218,22488,Anvt Rdp Link,Anand Vihar Trm,Radhikapur
+219,12428,Anvt Rewa Express,Anand Vihar Trm,Rewa
+220,3190,Anvt Sdah Superfast Special,Anand Vihar Trm,Sealdah
+221,22858,Anvt Src Superfast Express,Anand Vihar Trm,Santragachi Junction
+222,8034,Anvt Src Special,Anand Vihar Trm,Santragachi Junction
+223,4403,Anvt Uhp Special,Anand Vihar Trm,Udhampur
+224,12708,Ap Sampark Kranti,H Nizamuddin,Tirupati
+225,5711,Apdj Aii Special,Alipur Duar Junction,Ajmer Junction
+226,5817,Apdj Dbb Special,Alipur Duar Junction,Dhubri
+227,12885,Aranyak Express,Shalimar,Bhojudih Junction
+228,12886,Aranyak Express,Bhojudih Junction,Shalimar
+229,19707,Aravali Express,Bandra Terminus,Jaipur
+230,19708,Aravali Express,Jaipur,Bandra Terminus
+231,12356,Archana Express,Jammu Tawi,Rjndr Ngr Bihar
+232,12355,Archna Express,Rjndr Ngr Bihar,Jammu Tawi
+233,3560,Asansol Special,Patna Junction,Asansol Junction
+234,12916,Ashram Express,Delhi,Ahmedabad Junction
+235,12915,Ashram Express,Ahmedabad Junction,Delhi
+236,3517,Asn Anvt Special,Asansol Junction,Anand Vihar Trm
+237,12361,Asn Cstm Express,Asansol Junction,Mumbai Cst
+238,13509,Asn Gd Express,Asansol Junction,Gonda Junction
+239,13507,Asn Gkp Express,Asansol Junction,Gorakhpur Junction
+240,3563,Asn Jp Special,Asansol Junction,Jaipur
+241,12376,Asn Mas Express,Asansol Junction,Chennai Central
+242,3555,Asn Mfp Special,Asansol Junction,Muzaffarpur Junction
+243,3511,Asn Pnbe Special,Asansol Junction,Patna Junction
+244,3557,Asn Pnbe Special,Asansol Junction,Patna Junction
+245,3516,Asn Puri Special,Asansol Junction,Puri
+246,19614,Asr Aii Express,Amritsar Junction,Ajmer Junction
+247,19612,Asr Ajmer Express,Amritsar Junction,Ajmer Junction
+248,12242,Asr Cdg Superfast,Amritsar Junction,Chandigarh
+249,14154,Asr Cnb Express,Amritsar Junction,Kanpur Central
+250,15934,Asr Dbrg Express,Amritsar Junction,Dibrugarh
+251,14632,Asr Ddn Express,Amritsar Junction,Dehradun
+252,54602,Asr Hsr Passenger,Amritsar Junction,Sadulpur Junction
+253,12054,Asr Hw Jnshtbdi,Amritsar Junction,Haridwar Junction
+254,13050,Asr Hwh Express,Amritsar Junction,Howrah Junction
+255,13006,Asr Hwh Mail,Amritsar Junction,Howrah Junction
+256,19326,Asr Indb Express,Amritsar Junction,Indore Junction Bg
+257,19772,Asr Jaipur Express,Amritsar Junction,Ajmer Junction
+258,19782,Asr Jp Express,Amritsar Junction,Ajmer Junction
+259,12484,Asr Kcvl Express,Amritsar Junction,Kochuveli
+260,15708,Asr Kir Express,Amritsar Junction,Katihar Junction
+261,12358,Asr Koaa Superfast Express,Amritsar Junction,Kolkata
+262,14616,Asr Lku Express,Amritsar Junction,Lal Kuan
+263,11058,Asr Ltt Express,Amritsar Junction,Lokmanyatilak T
+264,12460,Asr Ndls Express,Amritsar Junction,New Delhi
+265,12716,Asr Ned Express,Amritsar Junction,Nanded
+266,12422,Asr Ned Superfast Express,Amritsar Junction,Nanded
+267,14002,Attari Dli Express,Atari,Delhi
+268,12953,Aug Kr Raj Express,Mumbai Central,H Nizamuddin
+269,57549,Aurangabad Psgr,Hyderabad Decan,Aurangabad
+270,15910,Avadh Assam Express,Lalgarh Junction,New Tinsukia Junction
+271,15610,Avadh Assam Express,Lalgarh Junction,New Tinsukia Junction
+272,19040,Avadh Express,Muzaffarpur Junction,Bandra Terminus
+273,19037,Avadh Express,Bandra Terminus,Gorakhpur Junction
+274,19039,Avadh Express,Bandra Terminus,Muzaffarpur Junction
+275,19038,Avadh Express,Gorakhpur Junction,Bandra Terminus
+276,12962,Avantika Express,Indore Junction Bg,Mumbai Central
+277,12961,Avantika Express,Mumbai Central,Indore Junction Bg
+278,17619,Awb Ned Express,Aurangabad,Nanded
+279,7505,Awb Qln Special,Aurangabad,Kollam Junction
+280,17621,Awb Ru Express,Aurangabad,Renigunta Junction
+281,7405,Awb Tpty Special,Aurangabad,Tirupati
+282,14808,Awr Jp Express,Alwar,Jaipur
+283,4805,Awr Krh Special,Alwar,Khairthal
+284,12129,Azad Hind Express,Pune Junction,Howrah Junction
+285,12130,Azad Hind Express,Howrah Junction,Pune Junction
+286,12948,Azimabad Express,Patna Junction,Ahmedabad Junction
+287,12947,Azimabad Express,Ahmedabad Junction,Patna Junction
+288,15665,B G Express,Kamakhya,Dimapur
+289,15666,B G Express,Dimapur,Kamakhya
+290,18450,B Nath Dham Express,Patna Junction,Puri
+291,18449,B Nath Dham Express,Puri,Patna Junction
+292,13019,Bagh Express,Howrah Junction,Kathgodam
+293,13020,Bagh Express,Kathgodam,Howrah Junction
+294,12577,Bagmati Express,Darbhanga Junction,Mysore Junction
+295,12578,Bagmati Express,Mysore Junction,Darbhanga Junction
+296,74639,Bahl Sina,Banihal,Srinagar
+297,19452,Bandra T Express,Gandhidham Bg,Bandra Terminus
+298,6347,Bangalore Express,Eranakulam Junction,Bangalore Cy Junction
+299,6542,Bangalore Express,Villuparam Junction,Bangalore Cy Junction
+300,12785,Bangalore Express,Kacheguda,Bangalore Cy Junction
+301,12609,Bangalore Express,Chennai Central,Bangalore Cy Junction
+302,6516,Bangalore Express,Tirunelveli,Bangalore Cy Junction
+303,16525,Bangalore Express,Kanyakumari,Bangalore Cy Junction
+304,16518,Bangalore Express,Kannur,Bangalore Cy Junction
+305,16524,Bangalore Express,Karwar,Bangalore Cy Junction
+306,6590,Bangalore Express,Hubli Junction,Bangalore Cy Junction
+307,16228,Bangalore Express,Talguppa,Bangalore Cy Junction
+308,17236,Bangalore Express,Nagercoil Junction,Bangalore Cy Junction
+309,12678,Bangalore Express,Eranakulam Junction,Bangalore Cy Junction
+310,16316,Bangalore Express,Kochuveli,Bangalore Cy Junction
+311,6029,Bangalore Express,Chennai Central,Bangalore Cy Junction
+312,12657,Bangalore Mail,Chennai Central,Bangalore Cy Junction
+313,56263,Bangalore Passenger,Mysore Junction,Bangalore Cy Junction
+314,22607,Bangalore Superfast Express,Eranakulam Junction,Bangalore Cy Junction
+315,12683,Bangalore Superfast Express,Eranakulam Junction,Bangalore Cy Junction
+316,12494,Banglore Rajdhn,H Nizamuddin,Bangalore Cy Junction
+317,22694,Banglore Rajdhn,H Nizamuddin,Bangalore Cy Junction
+318,22692,Banglore Rajdhani,H Nizamuddin,Bangalore Cy Junction
+319,13241,Banka Rjpb Express,Banka,Rjndr Ngr Bihar
+320,15694,Barak Valley Express,Silchar,Lumding Junction
+321,15693,Barak Valley Express,Lumding Junction,Silchar
+322,14555,Bareilly Dli Express,Bareilly,Delhi
+323,14556,Bareilly Express,Delhi,Bareilly
+324,14313,Bareilly Express,Lokmanyatilak T,Bareilly
+325,14322,Bareilly Express,Bhuj,Bareilly
+326,28624,Barka Rjpb Express,Barka Kana,Rjndr Ngr Bihar
+327,14888,Barmer Klk Express,Barmer,Kalka
+328,14805,Barmer Ac Express,Yesvantpur Junction,Barmer
+329,17307,Basava Express,Mysore Junction,Bagalkot
+330,17308,Basava Express,Bagalkot,Mysore Junction
+331,51029,Bb Bjp Fast Passenger,Mumbai Cst,Bijapur
+332,18404,Bbn Ckp Intercity Express,Barabil,Chakradharpur
+333,12021,Bbn Janshatabdi,Howrah Junction,Barabil
+334,12022,Bbn Janshatabdi,Barabil,Howrah Junction
+335,18415,Bbn Puri Express,Barabil,Puri
+336,12831,Bbs Garib Rath,Dhanbad Junction,Bhubaneswar
+337,12892,Bbs Bpo Express,Bhubaneswar,Bangriposi
+338,18437,Bbs Bwip Link E,Bhubaneswar,Nilaje
+339,12830,Bbs Chennai Express,Bhubaneswar,Chennai Central
+340,1020,Bbs Cstm Special,Bhubaneswar,Mumbai Cst
+341,12281,Bbs Duronto Express,Bhubaneswar,New Delhi
+342,12282,Bbs Duronto Express,New Delhi,Bhubaneswar
+343,12894,Bbs Express,Balangir,Bhubaneswar
+344,12074,Bbs Jan Shatabd,Bhubaneswar,Howrah Junction
+345,12073,Bbs Jan Shatabd,Howrah Junction,Bhubaneswar
+346,12880,Bbs Ltt Superfast Express,Bhubaneswar,Lokmanyatilak T
+347,2815,Bbs Ndls Superfast Special,Bhubaneswar,New Delhi
+348,22805,Bbs Ndls Superfast Express,Bhubaneswar,New Delhi
+349,12898,Bbs Pdy Express,Bhubaneswar,Puducherry
+350,8449,Bbs Pnbe Special,Bhubaneswar,Patna Junction
+351,12582,Bbs Pune Express,Bhubaneswar,Pune Junction
+352,22882,Bbs Pune Express,Bhubaneswar,Pune Junction
+353,2882,Bbs Pune Premiu,Bhubaneswar,Pune Junction
+354,22811,Bbs Rajdhani Express,Bhubaneswar,New Delhi
+355,22823,Bbs Rajdhani Express,Bhubaneswar,New Delhi
+356,18496,Bbs Rmm Express,Bhubaneswar,Rameswaram
+357,18106,Bbs Rou Intercity Express,Bhubaneswar,Rourkela
+358,22871,Bbs Tpty Express,Bhubaneswar,Tirupati
+359,22879,Bbs Tpty Superfast Express,Bhubaneswar,Tirupati
+360,2845,Bbs Ypr Superfast Special,Bhubaneswar,Yesvantpur Junction
+361,12845,Bbs Ypr Superfast Express,Bhubaneswar,Yesvantpur Junction
+362,9017,Bct Adi Ac Special,Mumbai Central,Ahmedabad Junction
+363,9007,Bct Bikaner Special,Mumbai Central,Bikaner Junction
+364,12932,Bct Doubledecke,Ahmedabad Junction,Mumbai Central
+365,22210,Bct Duronto,New Delhi,Mumbai Central
+366,12268,Bct Duronto Express,Ahmedabad Junction,Mumbai Central
+367,12955,Bct Jp Express,Mumbai Central,Jaipur
+368,4093,Bct Ndls Ac Special,Mumbai Central,New Delhi
+369,9003,Bct Ndls Premiu,Mumbai Central,New Delhi
+370,14209,Bdl Lko Intercity,Vindhyachal,Lucknow Nr
+371,2904,Bdts Ac S F Express,Bhuj,Bandra Terminus
+372,22904,Bdts Ac S F Express,Bhuj,Bandra Terminus
+373,9027,Bdts Adi Special,Bandra Terminus,Ahmedabad Junction
+374,9642,Bdts Aii Special,Bandra Terminus,Ajmer Junction
+375,12995,Bdts Aii Udz Express,Bandra Terminus,Ajmer Junction
+376,9620,Bdts Aii Urs Special,Bandra Terminus,Ajmer Junction
+377,19065,Bdts Bgkt Express,Bandra Terminus,Bhagat Ki Kothi
+378,19115,Bdts Bhuj Express,Bandra Terminus,Bhuj
+379,9023,Bdts Bikaner Special,Bandra Terminus,Bikaner Junction
+380,22474,Bdts Bkn Superfast Express,Bandra Terminus,Bikaner Junction
+381,19203,Bdts Bvc Express,Bandra Terminus,Bhavnagar Trmus
+382,9231,Bdts Bvc Special,Bandra Terminus,Bhavnagar Trmus
+383,19029,Bdts Dee Express,Bandra Terminus,Delhi S Rohilla
+384,12910,Bdts Garib Rath,H Nizamuddin,Bandra Terminus
+385,5034,Bdts Gkp Special,Bandra Terminus,Gorakhpur Junction
+386,2534,Bdts Gkp Superfast Special,Bandra Terminus,Gorakhpur Junction
+387,1654,Bdts Hbj Special,Bandra Terminus,Habibganj
+388,22915,Bdts Hsr Superfast Express,Bandra Terminus,Hisar
+389,2915,Bdts Hsr Superfast Express,Bandra Terminus,Hisar
+390,9301,Bdts Indb Superfast Special,Bandra Terminus,Indore Junction Bg
+391,9029,Bdts Indore Special,Bandra Terminus,Indore Junction Bg
+392,11104,Bdts Jhansi Express,Bandra Terminus,Jhansi Junction
+393,22933,Bdts Jp Superfast Express,Bandra Terminus,Jaipur
+394,9732,Bdts Jp Special,Bandra Terminus,Jaipur
+395,9033,Bdts Jp Special,Bandra Terminus,Jaipur
+396,19063,Bdts Jsm Express,Bandra Terminus,Jaisalmer
+397,9063,Bdts Jsm Express,Bandra Terminus,Jaisalmer
+398,22931,Bdts Jsm Express,Bandra Terminus,Jaisalmer
+399,9045,Bdts Jsm Special,Bandra Terminus,Jaisalmer
+400,9019,Bdts Ju Special,Bandra Terminus,Jodhpur Junction
+401,22444,Bdts Kanpur Express,Bandra Terminus,Kanpur Central
+402,19021,Bdts Ljn Express,Bandra Terminus,Lucknow Ne
+403,9009,Bdts Madgaon Special,Bandra Terminus,Madgaon
+404,12247,Bdts Nzm Yuva E,Bandra Terminus,H Nizamuddin
+405,9561,Bdts Okha Special,Bandra Terminus,Okha
+406,19049,Bdts Patna Express,Bandra Terminus,Patna Junction
+407,22935,Bdts Pit Superfast Express,Bandra Terminus,Mumbai Cst
+408,9011,Bdts Pnbe Special,Bandra Terminus,Patna Junction
+409,9061,Bdts Rmr Express,Bandra Terminus,Ramnagar
+410,12907,Bdts Sampark K Express,Bandra Terminus,H Nizamuddin
+411,12935,Bdts Surat Express,Bandra Terminus,Surat
+412,14321,Be Bhuj Express,Bareilly,Bhuj
+413,14236,Be Bsb Express,Bareilly,Varanasi Junction
+414,54077,Be Dli Psngr,Bareilly,Delhi
+415,14320,Be Indb Express,Bareilly,Indore Junction Bg
+416,4314,Be Kota Special,Bareilly,Kota Junction
+417,14308,Be Lko Ald Passenger,Bareilly,Prayag
+418,14314,Be Ltt Express,Bareilly,Lokmanyatilak T
+419,4918,Beas Sre Special,Beas,Saharanpur
+420,12238,Begampura Express,Jammu Tawi,Varanasi Junction
+421,12237,Begampura Express,Varanasi Junction,Jammu Tawi
+422,18203,Betwa Express,Durg,Kanpur Central
+423,18204,Betwa Express,Kanpur Central,Durg
+424,14803,Bgkt Adi Express,Bhagat Ki Kothi,Ahmedabad Junction
+425,4803,Bgkt Adi Special,Bhagat Ki Kothi,Ahmedabad Junction
+426,9054,Bgkt Bct Special,Jodhpur Junction,Valsad
+427,19066,Bgkt Bdts Express,Bhagat Ki Kothi,Bandra Terminus
+428,18244,Bgkt Bsp Express,Bhagat Ki Kothi,Bilaspur Junction
+429,8244,Bgkt Bsp Special,Bhagat Ki Kothi,Bilaspur Junction
+430,15623,Bgkt Kyq Express,Bhagat Ki Kothi,Kamakhya
+431,5623,Bgkt Kyq Special,Bhagat Ki Kothi,Kamakhya
+432,16863,Bgkt Mq Express,Bhagat Ki Kothi,Mannargudi
+433,16533,Bgkt Sbc Express,Bhagat Ki Kothi,Bangalore Cy Junction
+434,16507,Bgkt Sbcexp,Bhagat Ki Kothi,Bangalore Cy Junction
+435,18574,Bgkt Vskp Express,Bhagat Ki Kothi,Vishakapatnam
+436,11089,Bgktpune Express,Bhagat Ki Kothi,Pune Junction
+437,7327,Bgm Ubl,Belgaum,Hubli Junction
+438,22405,Bgp Garib Rath,Bhagalpur,Anand Vihar Trm
+439,13423,Bgp Aii Express,Bhagalpur,Ajmer Junction
+440,3453,Bgp Gkp Special,Bhagalpur,Gorakhpur Junction
+441,12335,Bgp Ltt Express,Bhagalpur,Lokmanyatilak T
+442,13410,Bgp Mldt Intercity Express,Jamalpur Junction,Malda Town
+443,12349,Bgp Ndls Express,Bhagalpur,New Delhi
+444,3435,Bgp Pnbe Special,Bhagalpur,Patna Junction
+445,18604,Bgp Rnc Express,Bhagalpur,Ranchi
+446,19048,Bgp Surat Express,Bhagalpur,Surat
+447,8104,Bgp Tata Special,Bhagalpur,Tatanagar Junction
+448,12891,Bgy Bbs Express,Bangriposi,Bhubaneswar
+449,12336,Bhagalpur Express,Lokmanyatilak T,Bhagalpur
+450,13104,Bhagirathi Express,Lalgola,Sealdah
+451,13103,Bhagirathi Express,Sealdah,Lalgola
+452,17233,Bhagyanagar Express,Secunderabad Junction,Balharshah
+453,17234,Bhagyanagar Express,Balharshah,Secunderabad Junction
+454,12971,Bhavnagar Express,Bandra Terminus,Bhavnagar Trmus
+455,59208,Bhavnagar Passenger,Okha,Bhavnagar Trmus
+456,59828,Bhind Passenger,Etawah,Bhind
+457,12155,Bhopal Express,Habibganj,H Nizamuddin
+458,12156,Bhopal Express,H Nizamuddin,Habibganj
+459,59389,Bhopal Passenge,Indore Junction Bg,Bhopal Junction
+460,12002,Bhopal Shatabdi,New Delhi,Habibganj
+461,13015,Bhp Kaviguru Express,Howrah Junction,Bolpur S Niktn
+462,12846,Bhubaneshwar Express,Yesvantpur Junction,Bhubaneswar
+463,18495,Bhubaneswar Express,Rameswaram,Bhubaneswar
+464,12829,Bhubaneswar Express,Chennai Central,Bhubaneswar
+465,22903,Bhuj Ac S F Express,Bandra Terminus,Bhuj
+466,19116,Bhuj Bdts Express,Bhuj,Bandra Terminus
+467,9024,Bhuj Bdts Special,Bhuj,Bandra Terminus
+468,9458,Bhuj Brc Special,Bhuj,Vadodara Junction
+469,12960,Bhuj Dadar Express,Bhuj,Dadar
+470,11091,Bhuj Pune Express,Bhuj,Pune Junction
+471,22829,Bhuj Shm Express,Bhuj,Shalimar
+472,59013,Bhusaval Passenger,Surat,Bhusaval Junction
+473,59075,Bhusaval Passenger,Surat,Bhusaval Junction
+474,59077,Bhusaval Passenger,Surat,Bhusaval Junction
+475,17009,Bidr Hyb Express,Bidar,Hyderabad Decan
+476,11076,Bidr Ltt Express,Bidar,Lokmanyatilak T
+477,16572,Bidr Ypr Express,Bidar,Yesvantpur Junction
+478,12565,Bihar S Kranti,Darbhanga Junction,New Delhi
+479,12566,Bihar S Kranti,New Delhi,Darbhanga Junction
+480,6535,Bijapur Express,Yesvantpur Junction,Bijapur
+481,22476,Bikaner Ac Express,Coimbatore Junction,Bikaner Junction
+482,6013,Bikaner Express,Chennai Egmore,Bikaner Junction
+483,16312,Bikaner Express,Kochuveli,Bikaner Junction
+484,18235,Bilaspur Express Passenger,Bhopal Junction,Chirmiri
+485,12852,Bilaspur Express,Chennai Central,Bilaspur Junction
+486,12442,Bilaspur Rajdhani,New Delhi,Bilaspur Junction
+487,21126,Bix Indb Express,Bhind,Indore Junction Bg
+488,59822,Bix Kota Passenger,Bhind,Kota Junction
+489,51030,Bjp Bb Fast Passenger,Bijapur,Mumbai Cst
+490,5285,Bju Aii Urs Special,Barauni Junction,Ajmer Junction
+491,15231,Bju Gondia Express,Barauni Junction,Gondia Junction
+492,11123,Bju Gwl Mail,Barauni Junction,Gwalior
+493,15203,Bju Ljn Express,Barauni Junction,Lucknow Ne
+494,5231,Bju Mfp Special,Barauni Junction,Muzaffarpur Junction
+495,4021,Bju Ndls Premiu,Barauni Junction,New Delhi
+496,4701,Bkn Udn Special,Bikaner Junction,Udhna Junction
+497,22631,Bkn Ac Superfast Express,Chennai Central,Bikaner Junction
+498,22473,Bkn Bdts Superfast Express,Bikaner Junction,Bandra Terminus
+499,9008,Bkn Bdts Special,Bikaner Junction,Bandra Terminus
+500,4737,Bkn Bl Special,Bikaner Junction,Valsad
+501,18246,Bkn Bsp Express,Bikaner Junction,Bilaspur Junction
+502,8246,Bkn Bsp Special,Bikaner Junction,Bilaspur Junction
+503,22475,Bkn Cbe Ac S F,Bikaner Junction,Coimbatore Junction
+504,12489,Bkn Ddr Superfast Express,Bikaner Junction,Dadar
+505,12458,Bkn Dee S F Express,Bikaner Junction,Delhi S Rohilla
+506,12456,Bkn Dee Superfast Express,Bikaner Junction,Delhi S Rohilla
+507,25631,Bkn Ghy Express,Bikaner Junction,Guwahati
+508,4735,Bkn Hw Special,Bikaner Junction,Haridwar Junction
+509,22308,Bkn Hwh Supfast,Bikaner Junction,Howrah Junction
+510,22472,Bkn Intercity,Delhi S Rohilla,Bikaner Junction
+511,12467,Bkn Jp Intercity,Bikaner Junction,Jaipur
+512,14702,Bkn Jsm Express,Bikaner Junction,Jaisalmer
+513,16311,Bkn Kcvl Express,Bikaner Junction,Kochuveli
+514,12495,Bkn Koaa Superfast Express,Bikaner Junction,Kolkata
+515,22632,Bkn Mas Ac Superfast,Bikaner Junction,Chennai Central
+516,6014,Bkn Ms Special,Bikaner Junction,Chennai Egmore
+517,17624,Bkn Ned Express,Bikaner Junction,Nanded
+518,7038,Bkn Ned Special,Bikaner Junction,Nanded
+519,4739,Bkn Puri Inaug,Bikaner Junction,Puri
+520,14709,Bkn Puri Express,Bikaner Junction,Puri
+521,4741,Bkn Rtgh Special,Bikaner Junction,Ratangarh Junction
+522,17038,Bkn Sc Express,Bikaner Junction,Secunderabad Junction
+523,4732,Bkn Sgnr Special,Bikaner Junction,Shri Ganganagar
+524,16588,Bkn Ypr Express,Bikaner Junction,Yesvantpur Junction
+525,2692,Bkn Ypr Premium,Bikaner Junction,Yesvantpur Junction
+526,6588,Bkn Ypr Special,Bikaner Junction,Yesvantpur Junction
+527,58014,Bksc Hwh Passenger,Bokaro Stl City,Howrah Junction
+528,9053,Bl Jodhpur Special,Valsad,Jodhpur Junction
+529,22909,Bl Puri S F Express,Valsad,Puri
+530,12583,Bl Puri S F Express,Valsad,Puri
+531,4738,Bl Bkn Ac Special,Valsad,Bikaner Junction
+532,12911,Bl Haridwar Express,Valsad,Haridwar Junction
+533,19055,Bl Jodhpur Express,Valsad,Jodhpur Junction
+534,19052,Bl Shramik Express,Muzaffarpur Junction,Valsad
+535,9057,Bl Vadodara Special,Valsad,Vadodara Junction
+536,22387,Blackdiamond Express,Howrah Junction,Dhanbad Junction
+537,22388,Blackdiamond Express,Dhanbad Junction,Howrah Junction
+538,12893,Blgr Express,Bhubaneswar,Balangir
+539,13064,Blgt Hwh Express,Balurghat,Howrah Junction
+540,13162,Blgt Koaa Express,Balurghat,Kolkata
+541,4973,Bme Bti Special,Barmer,Bhatinda Junction
+542,15631,Bme Ghy Express,Barmer,Guwahati
+543,24888,Bme Hw Link Express,Barmer,Haridwar Junction
+544,14806,Bme Ypr Ac Express,Barmer,Yesvantpur Junction
+545,2509,Bnc Kyq Premium,Bangalore Cant,Kamakhya
+546,2353,Bnc Premium Special,Patna Junction,Bangalore Cant
+547,2659,Bnc Tvc Premium,Bangalore Cant,Trivandrum Cntl
+548,2657,Bnc Tvc Premium,Bangalore Cant,Trivandrum Cntl
+549,4724,Bnw Cnb Special,Bhiwani,Kanpur Central
+550,3174,Bny Sdah Special,Barhni,Sealdah
+551,57129,Bolarum Passenger,Bijapur,Bolarum
+552,13137,Bp Amh Express,Kolkata,Azamgarh
+553,13118,Bpc Koaa Express,Lalgola,Kolkata
+554,22186,Bpl Double Deck,Indore Junction Bg,Bhopal Junction
+555,13026,Bpl Howrah Express,Bhopal Junction,Howrah Junction
+556,59390,Bpl Indb Passenger,Bhopal Junction,Indore Junction Bg
+557,12198,Bpl Intercity,Gwalior,Bhopal Junction
+558,19712,Bpl Jaipur Express,Bhopal Junction,Jaipur
+559,54811,Bpl Ju Passenger,Bhopal Junction,Jodhpur Junction
+560,7620,Bpl Kranti Special,Bhopal Junction,Kurnool Town
+561,1683,Bpl Ljn Special,Bhopal Junction,Lucknow Ne
+562,12183,Bpl Pbh Superfast Express,Bhopal Junction,Partapgarh Junction
+563,2183,Bpl Rewa Superfast Special,Bhopal Junction,Rewa
+564,59320,Bpl Ujjain Passenger,Bhopal Junction,Ujjain Junction
+565,51196,Bpq Wr Passenger,Balharshah,Mumbai Cst
+566,14056,Brahmputra Mail,Delhi,Dibrugarh
+567,14055,Brahmputra Mail,Dibrugarh,Delhi
+568,19129,Brc Adi Intercity,Vadodara Junction,Ahmedabad Junction
+569,9457,Brc Bhuj Special,Vadodara Junction,Bhuj
+570,9058,Brc Valsad Special,Vadodara Junction,Valsad
+571,12639,Brindavan Express,Chennai Central,Bangalore Cy Junction
+572,12640,Brindavan Express,Bangalore Cy Junction,Chennai Central
+573,51452,Brmt Pune Passenger,Baramati,Pune Junction
+574,19408,Bsb Adi Express,Varanasi Junction,Ahmedabad Junction
+575,22407,Bsb Anvt G Rath,Varanasi Junction,Anand Vihar Trm
+576,14235,Bsb Be Express,Varanasi Junction,Bareilly
+577,4911,Bsb Cdg Special,Varanasi Junction,Chandigarh
+578,4505,Bsb Cdg Special,Varanasi Junction,Chandigarh
+579,4503,Bsb Cdg Special,Varanasi Junction,Chandigarh
+580,1030,Bsb Cstm Special,Varanasi Junction,Mumbai Cst
+581,1028,Bsb Cstm Special,Varanasi Junction,Mumbai Cst
+582,14265,Bsb Ddn Express,Varanasi Junction,Ramnagar
+583,4931,Bsb Dli Special,Varanasi Junction,Delhi
+584,4203,Bsb Dli Special,Varanasi Junction,Delhi
+585,4205,Bsb Dli Special,Varanasi Junction,Delhi
+586,22408,Bsb Garib Rath,Anand Vihar Trm,Varanasi Junction
+587,14213,Bsb Gd Intercity,Varanasi Junction,Gonda Junction
+588,5652,Bsb Ghy Special,Varanasi Junction,Guwahati
+589,13346,Bsb Intercity E,Singrauli,Varanasi Junction
+590,21108,Bsb Kurj Link E,Varanasi Junction,Khajuraho
+591,14219,Bsb Lko Express,Varanasi Junction,Lucknow Nr
+592,14203,Bsb Lko Intercity,Varanasi Junction,Lucknow Nr
+593,2070,Bsb Ltt Premium,Varanasi Junction,Lokmanyatilak T
+594,1056,Bsb Ltt Special,Varanasi Junction,Lokmanyatilak T
+595,12168,Bsb Ltt Superfast Express,Varanasi Junction,Lokmanyatilak T
+596,12166,Bsb Ltt Superfast Express,Varanasi Junction,Lokmanyatilak T
+597,16230,Bsb Mys Express,Varanasi Junction,Mysore Junction
+598,2682,Bsb Mys Premium,Varanasi Junction,Mysore Junction
+599,6230,Bsb Mys Special,Varanasi Junction,Mysore Junction
+600,4433,Bsb Ndls Special,Varanasi Junction,New Delhi
+601,19570,Bsb Okha Express,Varanasi Junction,Okha
+602,2069,Bsb Premium Special,Lokmanyatilak T,Varanasi Junction
+603,14260,Bsb Rmm Express,Varanasi Junction,Rameswaram
+604,18612,Bsb Rnc Express,Varanasi Junction,Ranchi
+605,18312,Bsb Sbp Express,Varanasi Junction,Sambalpur
+606,13134,Bsb Sdah Express,Varanasi Junction,Sealdah
+607,1075,Bsb Teachers Special,Mumbai Cst,Varanasi Junction
+608,19058,Bsb Udn Express,Varanasi Junction,Udhna Junction
+609,22111,Bsl Ngp Superfast Express,Bhusaval Junction,Nagpur
+610,11025,Bsl Pune Express,Bhusaval Junction,Pune Junction
+611,59076,Bsl St Bct Passenger,Bhusaval Junction,Mumbai Central
+612,18243,Bsp Bgkt Express,Bilaspur Junction,Bhagat Ki Kothi
+613,8243,Bsp Bgktspecial,Bilaspur Junction,Bhagat Ki Kothi
+614,18245,Bsp Bkn Express,Bilaspur Junction,Bikaner Junction
+615,8245,Bsp Bkn Special,Bilaspur Junction,Bikaner Junction
+616,18236,Bsp Bpl Passenger,Bilaspur Junction,Bhopal Junction
+617,58219,Bsp Chrm Passenger,Bilaspur Junction,Chirmiri
+618,22815,Bsp Ers S F Express,Bilaspur Junction,Eranakulam Junction
+619,22940,Bsp Hapa Superfast Express,Bilaspur Junction,Hapa
+620,9536,Bsp Hapa Special,Bilaspur Junction,Hapa
+621,12856,Bsp Intercity,Nagpur,Bilaspur Junction
+622,1754,Bsp Jbp Special,Bilaspur Junction,Jabalpur
+623,1756,Bsp Jbp Special,Bilaspur Junction,Jabalpur
+624,12851,Bsp Mas Express,Bilaspur Junction,Chennai Central
+625,12441,Bsp Ndls Raj Express,Bilaspur Junction,New Delhi
+626,22843,Bsp Pnbe Express,Bilaspur Junction,Patna Junction
+627,12849,Bsp Pune Superfast Express,Bilaspur Junction,Pune Junction
+628,58229,Bsp Rewa Fst Pg,Bilaspur Junction,Rewa
+629,58114,Bsp Tata Passenger,Bilaspur Junction,Tatanagar Junction
+630,22619,Bsp Ten Express,Bilaspur Junction,Tirunelveli
+631,17481,Bsp Tpty Express,Bilaspur Junction,Tirupati
+632,117,Bsr Ratnagiri S,Vasai Road,Ratnagiri
+633,58871,Btc Jbp Passenger,Balaghat Junction,Jabalpur
+634,58865,Btc Jbp Passenger,Balaghat Junction,Jabalpur
+635,4974,Bti Bme Special,Bhatinda Junction,Barmer
+636,14501,Bti Jat Express,Bhatinda Junction,Jammu Tawi
+637,19225,Bti Jat Express,Bhatinda Junction,Jammu Tawi
+638,54701,Bti Lgh Passenger,Bhatinda Junction,Lalgarh Junction
+639,12048,Bti Ndls Shatabdi,Bhatinda Junction,New Delhi
+640,22812,Bubneswr Rajdhani,New Delhi,Bhubaneswar
+641,22824,Bubneswr Rajdhani,New Delhi,Bhubaneswar
+642,15109,Budh Purnima Express,Rajgir,Varanasi Junction
+643,14223,Budh Purnima Express,Rajgir,Varanasi Junction
+644,15110,Budhpurnima Express,Varanasi Junction,Rajgir
+645,14224,Budhpurnima Express,Varanasi Junction,Rajgir
+646,13106,Bui Sdah Express,Ballia,Sealdah
+647,11107,Bundelkhand Express,Gwalior,Varanasi Junction
+648,11108,Bundelkhand Express,Varanasi Junction,Gwalior
+649,12941,Bvc Asansol Express,Bhavnagar Trmus,Asansol Junction
+650,12972,Bvc Bdts Express,Bhavnagar Trmus,Bandra Terminus
+651,19204,Bvc Bdts Express,Bhavnagar Trmus,Bandra Terminus
+652,9232,Bvc Bdts Special,Bhavnagar Trmus,Bandra Terminus
+653,59272,Bvc Dee Link Express,Bhavnagar Trmus,Delhi S Rohilla
+654,17203,Bvc Kakinada Express,Bhavnagar Trmus,Kakinada Town
+655,19260,Bvc Kcvl Express,Bhavnagar Trmus,Kochuveli
+656,59207,Bvc Okha Passenger,Bhavnagar Trmus,Okha
+657,59230,Bvc St Link Express,Bhavnagar Trmus,Surat
+658,18438,Bwip Bbs Link E,Nilaje,Bhubaneswar
+659,59806,Bxn Fl Fast Passenger,Bayana Junction,Phulera Junction
+660,2714,Bza Adi Superfast Special,Vijayawada Junction,Ahmedabad Junction
+661,56504,Bza Bnc Passenger,Vijayawada Junction,Bangalore Cant
+662,12796,Bza Intercity,Secunderabad Junction,Vijayawada Junction
+663,7213,Bza Qln Special,Vijayawada Junction,Kollam Junction
+664,7219,Bza Qln Special,Vijayawada Junction,Kollam Junction
+665,7207,Bza Sc Special,Vijayawada Junction,Secunderabad Junction
+666,7209,Bza Sc Special,Vijayawada Junction,Secunderabad Junction
+667,17208,Bza Snsi Express,Vijayawada Junction,Sainagar Shirdi
+668,12823,C G Sampark Kranti,Durg,H Nizamuddin
+669,16313,Cannanore Express,Eranakulam Junction,Kannur
+670,16305,Cannanore Express,Eranakulam Junction,Kannur
+671,16307,Cannanore Express,Alleppey,Kannur
+672,12666,Cape Howrah Express,Kanyakumari,Howrah Junction
+673,16382,Cape Mumbai Express,Kanyakumari,Mumbai Cst
+674,22622,Cape Rmm Express,Kanyakumari,Rameswaram
+675,12790,Cape Rmm Express,Kanyakumari,Rameswaram
+676,13246,Capital Express,Danapur,New Jalpaiguri
+677,13245,Capital Express,New Jalpaiguri,Danapur
+678,12969,Cbe Jaipur Express,Coimbatore Junction,Jaipur
+679,6626,Cbe Mas Express,Coimbatore Junction,Chennai Central
+680,604,Cbe Mas Premium,Coimbatore Junction,Chennai Central
+681,606,Cbe Mas Premium,Coimbatore Junction,Chennai Central
+682,6610,Cbe Mas Superfast Express,Coimbatore Junction,Chennai Central
+683,16612,Cbe Tn Link Express,Coimbatore Junction,Tuticorin
+684,7239,Cct Ald Special,Kakinada Town,Allahabad Junction
+685,7201,Cct Sc Superfast Special,Kakinada Town,Secunderabad Junction
+686,2775,Cct Sc Superfast Special,Kakinada Town,Secunderabad Junction
+687,17206,Cct Snsi Express,Kakinada Town,Sainagar Shirdi
+688,17204,Cct Bvc Express,Kakinada Town,Bhavnagar Trmus
+689,7338,Cct Kcg Special,Kakinada Town,Kacheguda
+690,7211,Cct Qln Special,Kakinada Town,Kollam Junction
+691,2737,Cct Sc Superfast Special,Kakinada Town,Secunderabad Junction
+692,19308,Cdg Indb Express,Chandigarh,Indore Junction Bg
+693,13256,Cdg Ppta Express,Chandigarh,Danapur
+694,12984,Cdg Aii G Rath,Chandigarh,Ajmer Junction
+695,2411,Cdg Asr Inaugra,Chandigarh,Amritsar Junction
+696,12241,Cdg Asr Superfast,Chandigarh,Amritsar Junction
+697,22452,Cdg Bdts Superfast Express,Chandigarh,Bandra Terminus
+698,4912,Cdg Bsb Special,Chandigarh,Varanasi Junction
+699,4504,Cdg Bsb Special,Chandigarh,Varanasi Junction
+700,5904,Cdg Dbrg Special,Chandigarh,Dibrugarh
+701,15904,Cdg Dbrg Express,Chandigarh,Dibrugarh
+702,9304,Cdg Indb Special,Chandigarh,Indore Junction Bg
+703,19718,Cdg Jp Intercity,Chandigarh,Jaipur
+704,4502,Cdg Kir Special,Nangal Dam,Lucknow Nr
+705,15012,Cdg Ljn Express,Chandigarh,Lucknow Ne
+706,12232,Cdg Lko Express,Chandigarh,Lucknow Nr
+707,22688,Cdg Mdu Superfast Express,Chandigarh,Madurai Junction
+708,12046,Cdg Ndls Shatabdi,Chandigarh,New Delhi
+709,15032,Cdg Rmr Express,Chandigarh,Ramnagar
+710,5056,Cdg Rmr Special,Chandigarh,Ramnagar
+711,4511,Cdg Superfast Special,Bandra Terminus,Chandigarh
+712,22451,Cdg Superfast Fast,Bandra Terminus,Chandigarh
+713,11022,Chalukya Express,Tirunelveli,Dadar
+714,11006,Chalukya Express,Puducherry,Dadar
+715,12175,Chambal Express,Howrah Junction,Gwalior
+716,12177,Chambal Express,Howrah Junction,Mathura Junction
+717,12176,Chambal Express,Gwalior,Howrah Junction
+718,12178,Chambal Express,Mathura Junction,Howrah Junction
+719,16215,Chamundi Express,Mysore Junction,Bangalore Cy Junction
+720,16216,Chamundi Express,Bangalore Cy Junction,Mysore Junction
+721,19307,Chandigarh Express,Indore Junction Bg,Chandigarh
+722,9303,Chandigarh Special,Indore Junction Bg,Chandigarh
+723,12759,Charminar Express,Chennai Central,Hyderabad Decan
+724,12760,Charminar Express,Hyderabad Decan,Chennai Central
+725,18237,Chattisgarh Express,Bilaspur Junction,Amritsar Junction
+726,15004,Chaurichauraexp,Gorakhpur Junction,Kanpur Anwrganj
+727,15003,Chaurichauraexp,Kanpur Anwrganj,Gorakhpur Junction
+728,58222,Chd Chrm Pgr,Chandia Road,Chirmiri
+729,16615,Chemmozhi Express,Mannargudi,Coimbatore Junction
+730,16616,Chemmozhi Express,Coimbatore Junction,Mannargudi
+731,6060,Chennai Express,Velankanni,Chennai Egmore
+732,6346,Chennai Express,Eranakulam Junction,Chennai Central
+733,6348,Chennai Express,Trivandrum Cntl,Chennai Central
+734,6340,Chennai Express,Kochuveli,Chennai Central
+735,6616,Chennai Superfast Express,Coimbatore Junction,Chennai Central
+736,6604,Chennai Superfast Express,Coimbatore Junction,Chennai Central
+737,6608,Chennai Superfast Express,Coimbatore Junction,Chennai Central
+738,6606,Chennai Express,Erode Junction,Chennai Central
+739,12604,Chennai Express,Hyderabad Decan,Chennai Central
+740,6062,Chennai Express,Tiruchchirapali,Chennai Egmore
+741,12686,Chennai Express,Mangalore Cntl,Chennai Central
+742,6084,Chennai Express,Nagercoil Junction,Chennai Egmore
+743,6338,Chennai Express,Kochuveli,Chennai Central
+744,16176,Chennai Express,Karaikal,Chennai Egmore
+745,6624,Chennai Express,Coimbatore Junction,Chennai Egmore
+746,12668,Chennai Express,Nagercoil Junction,Chennai Egmore
+747,12682,Chennai Express,Coimbatore Junction,Chennai Central
+748,12164,Chennai Express,Chennai Egmore,Dadar
+749,6316,Chennai Express,Kochuveli,Chennai Central
+750,6082,Chennai Express,Kochuveli,Chennai Central
+751,6006,Chennai Express,Nagercoil Junction,Chennai Central
+752,6040,Chennai Express,Coimbatore Junction,Chennai Egmore
+753,6016,Chennai Express,Mangalore Cntl,Chennai Central
+754,6004,Chennai Express,Kollam Junction,Chennai Central
+755,6018,Chennai Express,Nagercoil Junction,Chennai Egmore
+756,6804,Chennai Express,Sengottai,Chennai Egmore
+757,6008,Chennai Express,Tuticorin,Chennai Central
+758,6706,Chennai Express,Tirunelveli,Chennai Egmore
+759,6042,Chennai Express,Coimbatore Junction,Chennai Egmore
+760,6749,Chennai Express,Tirunelveli,Chennai Egmore
+761,6012,Chennai Express,Kochuveli,Chennai Central
+762,22640,Chennai Express,Alleppey,Chennai Central
+763,56101,Chennai Express,Metur Dam,Chennai Egmore
+764,12680,Chennai Express,Coimbatore Junction,Chennai Central
+765,22624,Chennai Express,Madurai Junction,Chennai Egmore
+766,12163,Chennai Express,Dadar,Chennai Egmore
+767,16102,Chennai Express,Rameswaram,Chennai Egmore
+768,12794,Chennai Express,Madurai Junction,Chennai Egmore
+769,6022,Chennai Express,Shoranur Junction,Chennai Central
+770,22681,Chennai Express,Mysore Junction,Chennai Central
+771,16854,Chennai Express,Tiruchchirapali,Chennai Egmore
+772,6750,Chennai Express,Tirunelveli,Chennai Central
+773,12610,Chennai Express,Bangalore Cy Junction,Chennai Central
+774,12692,Chennai Express,Sai P Nilayam,Chennai Central
+775,6056,Chennai Express,Eranakulam Junction,Chennai Central
+776,6748,Chennai Express,Nagercoil Junction,Chennai Egmore
+777,6058,Chennai Express,Tiruchchirapali,Chennai Egmore
+778,11074,Chennai Ltt Express,Chennai Central,Lokmanyatilak T
+779,12624,Chennai Mail,Trivandrum Cntl,Chennai Central
+780,12602,Chennai Mail,Mangalore Cntl,Chennai Central
+781,11027,Chennai Mail,Mumbai Cst,Chennai Central
+782,12658,Chennai Mail,Bangalore Cy Junction,Chennai Central
+783,12434,Chennai Rajdhni,H Nizamuddin,Chennai Central
+784,12674,Cheran Express,Coimbatore Junction,Chennai Central
+785,12673,Cheran Express,Chennai Central,Coimbatore Junction
+786,12981,Chetak Express,Delhi S Rohilla,Udaipur City
+787,12982,Chetak Express,Udaipur City,Delhi S Rohilla
+788,11059,Chhapra Express,Lokmanyatilak T,Chhapra
+789,18238,Chhatisgarh Express,Amritsar Junction,Chhindwara Junction
+790,15205,Chitrakut Express,Lucknow Ne,Jabalpur
+791,15206,Chitrakut Express,Jabalpur,Lucknow Ne
+792,15010,Chitrakut Express,Jabalpur,Lucknow Ne
+793,58220,Chrm Bsp Passenger,Chirmiri,Bilaspur Junction
+794,58221,Chrm Chd Pgr,Chirmiri,Chandia Road
+795,51754,Chrm Rewa F Pgr,Chirmiri,Rewa
+796,12824,Chtsgrh S Kranti,H Nizamuddin,Durg
+797,17643,Circar Express,Chennai Egmore,Kakinada Port
+798,17644,Circar Express,Kakinada Port,Chennai Egmore
+799,18403,Ckp Bbn Intercity Express,Chakradharpur,Barabil
+800,58012,Ckp Hwh Passenger,Chakradharpur,Howrah Junction
+801,14151,Cnb Anvt Express,Kanpur Central,Anand Vihar Trm
+802,14153,Cnb Asr Express,Kanpur Central,Amritsar Junction
+803,22443,Cnb Bdts Superfast,Kanpur Central,Bandra Terminus
+804,4723,Cnb Bnw Special,Kanpur Central,Bhiwani
+805,4153,Cnb Cstm Special,Kanpur Central,Mumbai Cst
+806,12210,Cnb Garib Rath,Kathgodam,Kanpur Central
+807,22441,Cnb Intercity,Allahabad Junction,Kanpur Central
+808,12469,Cnb Jat Express,Kanpur Central,Jammu Tawi
+809,2451,Cnb Jat Premium,Kanpur Central,Jammu Tawi
+810,12033,Cnb Ndls Shatabdi,Kanpur Central,New Delhi
+811,14155,Cnb Uhp Express,Kanpur Central,Udhampur
+812,17221,Coa Ltt Express,Kakinada Port,Lokmanyatilak T
+813,12339,Coal Field Express,Howrah Junction,Dhanbad Junction
+814,12340,Coalfield Express,Dhanbad Junction,Howrah Junction
+815,12775,Cocanada Express,Kakinada Town,Secunderabad Junction
+816,12776,Cocanada Express,Secunderabad Junction,Kakinada Town
+817,6618,Coimbatore Express,Nagercoil Junction,Coimbatore Junction
+818,6009,Coimbatore Express,Chennai Central,Coimbatore Junction
+819,16609,Coimbatore Express,Nagercoil Junction,Coimbatore Junction
+820,6615,Coimbatore Express,Chennai Central,Coimbatore Junction
+821,16617,Coimbatore Express,Rameswaram,Coimbatore Junction
+822,6605,Coimbatore Express,Chennai Central,Coimbatore Junction
+823,6603,Coimbatore Express,Chennai Central,Coimbatore Junction
+824,16613,Coimbatore Express,Rajkot Junction,Coimbatore Junction
+825,12681,Coimbatore Express,Chennai Central,Coimbatore Junction
+826,6037,Coimbatore Express,Chennai Egmore,Coimbatore Junction
+827,6607,Coimbatore Express,Chennai Central,Coimbatore Junction
+828,6039,Coimbatore Express,Chennai Egmore,Coimbatore Junction
+829,12679,Coimbatore Express,Chennai Central,Coimbatore Junction
+830,11013,Coimbatore Express,Lokmanyatilak T,Coimbatore Junction
+831,25014,Corbet Prk Link,Ramnagar,Jaisalmer
+832,12841,Coromandal Express,Howrah Junction,Chennai Central
+833,12842,Coromandel Express,Chennai Central,Howrah Junction
+834,5103,Cpr Aii Special,Chhapra,Ajmer Junction
+835,15115,Cpr Dli Express,Chhapra,Delhi
+836,15117,Cpr G Express,Chhapra,Gondia Junction
+837,15106,Cpr Intercity,Gorakhpur Junction,Chhapra
+838,15112,Cpr Intercity,Manduadih,Chhapra
+839,5143,Cpr Jat Special,Chhapra,Jammu Tawi
+840,15053,Cpr Ljn Express,Chhapra,Lucknow Ne
+841,5065,Cpr Ljn Special,Chhapra,Lucknow Ne
+842,5115,Cpr Ljn Special,Chhapra,Lucknow Ne
+843,11060,Cpr Ltt Express,Chhapra,Lokmanyatilak T
+844,15107,Cpr Mtj Express,Chhapra,Mathura Junction
+845,18182,Cpr Tata Express,Chhapra,Tatanagar Junction
+846,8182,Cpr Tata Special,Chhapra,Tatanagar Junction
+847,1065,Cstm Ers Special,Mumbai Cst,Eranakulam Junction
+848,2004,Cstm Ac Premium,Karmali,Mumbai Cst
+849,12111,Cstm Amravati E,Mumbai Cst,Amravati
+850,12362,Cstm Asansol Express,Mumbai Cst,Asansol Junction
+851,1027,Cstm Bsb Special,Mumbai Cst,Varanasi Junction
+852,1079,Cstm Bsb Special,Mumbai Cst,Varanasi Junction
+853,11041,Cstm Chennai Express,Mumbai Cst,Chennai Central
+854,51034,Cstm Fast Passenger,Sainagar Shirdi,Mumbai Cst
+855,1034,Cstm Ganpati Special,Madgaon,Mumbai Cst
+856,2187,Cstm Garibrath,Jabalpur,Mumbai Cst
+857,2083,Cstm Hatia Special,Mumbai Cst,Hatia
+858,1087,Cstm Hatia Special,Mumbai Cst,Hatia
+859,2041,Cstm Hwh Superfast Special,Mumbai Cst,Howrah Junction
+860,2171,Cstm Jat Special,Mumbai Cst,Jammu Tawi
+861,1701,Cstm Jbp Superfast Special,Mumbai Cst,Jabalpur
+862,4154,Cstm Kanpur Special,Mumbai Cst,Kanpur Central
+863,22107,Cstm Latur Express,Mumbai Cst,Latur
+864,1051,Cstm Mao Special,Mumbai Cst,Madgaon
+865,1033,Cstm Mao Special,Mumbai Cst,Madgaon
+866,1211,Cstm Nagpur Special,Mumbai Cst,Nagpur
+867,1013,Cstm Nagpur Special,Mumbai Cst,Nagpur
+868,2008,Cstm Premium,Vellankanni,Mumbai Cst
+869,2702,Cstm Sc Premium,Mumbai Cst,Secunderabad Junction
+870,2002,Cstm Shatabdi Special,Karmali,Mumbai Cst
+871,11305,Cstm Solapur Express,Mumbai Cst,Solapur Junction
+872,12959,Dadar Bhuj Express,Dadar,Bhuj
+873,22629,Dadar Ten Express,Dadar,Tirunelveli
+874,12722,Dakshin Express,H Nizamuddin,Vishakapatnam
+875,12351,Danapur Express,Howrah Junction,Danapur
+876,12352,Danapur Hwh Express,Danapur,Howrah Junction
+877,11065,Darbhanga Express,Lokmanyatilak T,Darbhanga Junction
+878,5288,Darbhanga Express,Yesvantpur Junction,Darbhanga Junction
+879,11033,Darbhanga Express,Pune Junction,Darbhanga Junction
+880,12343,Darjeeling Mail,Sealdah,Haldibari
+881,12344,Darjeeling Mail,Haldibari,Sealdah
+882,14035,Dauladhar Express,Delhi,Pathankot
+883,57515,Daund Nanded Passenger,Daund Junction,Nanded
+884,12182,Dayodaya Express,Ajmer Junction,Jabalpur
+885,12181,Dayodaya Express,Jabalpur,Ajmer Junction
+886,5818,Dbb Apdj Special,Dhubri,Alipur Duar Junction
+887,5917,Dbb Dbrg Special,Dhubri,Dibrugarh
+888,15817,Dbb Shtt Rr Express,Dhubri,Silghat Town
+889,5237,Dbg Aii Special,Darbhanga Junction,Ajmer Junction
+890,5213,Dbg Anvt Special,Darbhanga Junction,Anand Vihar Trm
+891,4409,Dbg Dli Premium,Darbhanga Junction,Delhi
+892,4023,Dbg Dli Premium,Darbhanga Junction,Delhi
+893,15236,Dbg Hwh Express,Darbhanga Junction,Howrah Junction
+894,17006,Dbg Hyb Express,Raxual Junction,Hyderabad Decan
+895,15234,Dbg Koaa Express,Darbhanga Junction,Kolkata
+896,11066,Dbg Ltt Express,Darbhanga Junction,Lokmanyatilak T
+897,2050,Dbg Ltt Premium,Darbhanga Junction,Lokmanyatilak T
+898,4410,Dbg Premium Special,Delhi,Darbhanga Junction
+899,11034,Dbg Pune Express,Darbhanga Junction,Pune Junction
+900,17008,Dbg Sc Express,Darbhanga Junction,Secunderabad Junction
+901,5287,Dbg Ypr Exam Special,Darbhanga Junction,Yesvantpur Junction
+902,5942,Dbrg Koaa Special,Dibrugarh,Kolkata
+903,15905,Dbrg Vivek Express,Kanyakumari,Dibrugarh
+904,15933,Dbrg Asr Express,Dibrugarh,Amritsar Junction
+905,15903,Dbrg Cdg Express,Dibrugarh,Chandigarh
+906,5903,Dbrg Cdg Special,Dibrugarh,Chandigarh
+907,5918,Dbrg Dbb Special,Dibrugarh,Dhubri
+908,5970,Dbrg Ghy Special,Dibrugarh,Guwahati
+909,15942,Dbrg Jhajha Express,Dibrugarh,Jhajha
+910,12526,Dbrg Koaa Express,Dibrugarh,Kolkata
+911,15930,Dbrg Ms Express,Dibrugarh,Chennai Egmore
+912,12235,Dbrg Ndls Rajex,Dibrugarh,New Delhi
+913,15928,Dbrg Rny Express,Dibrugarh,Rangiya Junction
+914,5968,Dbrg Rny Special,Dibrugarh,Rangiya Junction
+915,15902,Dbrg Sbc Express,Dibrugarh,Bangalore Cy Junction
+916,12424,Dbrt Rajdhani,New Delhi,Dibrugarh Town
+917,12435,Dbrt Rajdhani E,Dibrugarh Town,New Delhi
+918,12423,Dbrt Rajdhani E,Dibrugarh Town,New Delhi
+919,14631,Ddn Asr Express,Dehradun,Amritsar Junction
+920,14266,Ddn Bsb Express,Dehradun,Varanasi Junction
+921,15006,Ddn Gkp Express,Dehradun,Gorakhpur Junction
+922,14318,Ddn Indb Express,Dehradun,Indore Junction Bg
+923,12055,Ddn Janshtbdi,New Delhi,Dehradun
+924,12288,Ddn Kcvl Superfast Express,Dehradun,Kochuveli
+925,22660,Ddn Kcvl Superfast Express,Dehradun,Kochuveli
+926,14120,Ddn Kgm Express,Dehradun,Kathgodam
+927,12688,Ddn Mdu Superfast Express,Dehradun,Madurai Junction
+928,15002,Ddn Mfp Express,Dehradun,Muzaffarpur Junction
+929,12490,Ddr Bikaner Express,Dadar,Bikaner Junction
+930,4728,Ddr Bkn Superfast Special,Dadar,Bikaner Junction
+931,11007,Deccan Express,Mumbai Cst,Pune Junction
+932,11008,Deccan Express,Pune Junction,Mumbai Cst
+933,12123,Deccan Queen,Mumbai Cst,Pune Junction
+934,12124,Deccan Queen,Pune Junction,Mumbai Cst
+935,9418,Dee Adi Premium,Delhi S Rohilla,Ahmedabad Junction
+936,22920,Dee Adi Superfast Special,Delhi S Rohilla,Ahmedabad Junction
