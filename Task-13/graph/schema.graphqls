@@ -1,0 +1,53 @@
+# GraphQL schema example
+#
+# https://gqlgen.com/getting-started/
+
+type Train{
+  id: ID!
+  index: Int!
+  train_no: Int!
+  train_name: String!
+  start: String!
+  ends: String!
+  test_train_containers: [String]!
+  gettrains: [Train!]!
+}
+
+type Query{
+  gettrains: [Train!]!
+  gettrain(train_no: Int!): Train!
+}
+
+input NewTrain {
+  index: Int! 
+  train_no: Int!
+  train_name: String!
+  start: String!
+  ends: String!
+}
+
+input createTrain {
+  index: Int!
+  train_no: Int!
+  train_name: String!
+  start: String!
+  ends: String!
+}
+
+input updateTrain {
+  index: Int!
+  train_no: Int!
+  train_name: String!
+  start: String!
+  ends: String!
+}
+
+type deleteTrainInfo {
+  deleteTrainCount: Int!
+}
+
+type Mutation {
+  createTrain(input: NewTrain!): Train!
+  updateTrain(train_no: Int!, input: NewTrain!): Train!
+  deleteTrain(train_no: Int!): deleteTrainInfo!
+}
